@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Setup[VM Creation & Installation of Ticketing Software]](https://github.com/Tobenna-Etiaba/osTicket-Setup)
-  - [osTicket: Configuration[Tickets, SLA's, Filters, Emails etc]](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Configuration[Tickets, SLA's, Filters, Emails etc]](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
