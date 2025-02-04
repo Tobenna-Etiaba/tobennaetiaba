@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Setup[VM Creation & Installation of Ticketing Software]]https://github.com/Tobenna-Etiaba/osTicket-Setup
+  - [osTicket: Setup[VM Creation & Installation of Ticketing Software]](https://github.com/Tobenna-Etiaba/osTicket-Setup)
   - [osTicket: Configuration[Tickets, SLA's, Filters, Emails etc]](https://github.com/joshmadakorcc/post-install-config)
 
 - <b>Microsoft Azure</b>
