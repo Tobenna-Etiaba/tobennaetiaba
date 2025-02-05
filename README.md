@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tobenna-Etiaba/Network-Protocols)
-  - [Installing & Configuring VPNs within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Installing & Configuring VPNs within Azure VMs](https://github.com/Tobenna-Etiaba/VPN-Configuration)
  
 
 - <b>osTicket (Help Desk Ticketing System)</b>
