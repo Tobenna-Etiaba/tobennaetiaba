@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tobenna-Etiaba/Network-Protocols)
   - [Installing & Configuring VPNs within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
  
 
