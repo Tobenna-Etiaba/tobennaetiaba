@@ -12,7 +12,7 @@
   - [osTicket Part 2 - Configuration[Tickets, SLA's, Filters, Emails etc]](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
  
 - <b>Active Directory)</b>
-  - [Active Directory Part 1 - Setup/Installation](https://github.com/Tobenna-Etiaba/osTicket-Setup)
+  - [Active Directory Part 1 - Setup/Installation](https://github.com/Tobenna-Etiaba/ActiveDirectorySetup)
   - [Active Directory Part 2 - Creating Users](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
   - [Active Directory Part 3 - Account Management](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
   - [Active Directory Part 4 - Network File Sharing](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
