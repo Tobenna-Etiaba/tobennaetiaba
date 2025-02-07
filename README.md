@@ -10,6 +10,12 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Setup[VM Creation & Installation of Ticketing Software]](https://github.com/Tobenna-Etiaba/osTicket-Setup)
   - [osTicket: Configuration[Tickets, SLA's, Filters, Emails etc]](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
+ 
+- <b>Active Directory)</b>
+  - [Active Directory Setup/Installation](https://github.com/Tobenna-Etiaba/osTicket-Setup)
+  - [Creating Users](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
+  - [Account Management](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
+  - [Network File Sharing](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
 
 <h2>🤳Connect with me:</h2>
 
