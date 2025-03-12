@@ -11,7 +11,7 @@
   - [osTicket Part 1 -  Setup[VM Creation & Installation of Ticketing Software]](https://github.com/Tobenna-Etiaba/osTicket-Setup)
   - [osTicket Part 2 - Configuration[Tickets, SLA's, Filters, Emails etc]](https://github.com/Tobenna-Etiaba/osTicket-Configuration)
  
-- <b>Active Directory)</b>
+- <b>Active Directory</b>
   - [Active Directory Part 1 - Setup/Installation](https://github.com/Tobenna-Etiaba/ActiveDirectorySetup)
   - [Active Directory Part 2 - Creating Users](https://github.com/Tobenna-Etiaba/ActiveDirectory-UserCreation)
   - [Active Directory Part 3 - Account Management](https://github.com/Tobenna-Etiaba/AD-GroupPolicy-and-Account-Management-)
